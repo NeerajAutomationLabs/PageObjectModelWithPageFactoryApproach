@@ -30,13 +30,14 @@ public class HomePageTest extends TestBase
 
 	@BeforeMethod
 	public void setUp() {
+		log.info("opening browser");
 		initialization();
 		objHomePage = new Homepage();
 	}
 
 	@Test(priority=1)
 	public void validateEzmalogo() {
-		log.info("checking for ezmall logo");
+		log.info("checking for ezmall logo on homepage");
 		Assert.assertTrue(objHomePage.validateEzmallLogo());
 		log.info("Ezmall logo Found on homepage");
 	}
