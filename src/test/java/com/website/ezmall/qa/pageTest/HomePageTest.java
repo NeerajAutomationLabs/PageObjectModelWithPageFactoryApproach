@@ -78,7 +78,10 @@ public class HomePageTest extends TestBase
 
 	@AfterMethod
 	public void teardown() {
+		
+		log.info("Closing Browser");
 		driver.quit();
+		log.info("Browser closed");
 	}
 
 }
