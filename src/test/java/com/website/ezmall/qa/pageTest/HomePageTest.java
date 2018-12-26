@@ -30,6 +30,7 @@ public class HomePageTest extends TestBase
 
 	@BeforeMethod
 	public void setUp() {
+		log.info("opening browser");
 		initialization();
 		objHomePage = new Homepage();
 	}
