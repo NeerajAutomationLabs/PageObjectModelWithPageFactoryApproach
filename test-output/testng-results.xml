@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="5" passed="5">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="78803" started-at="2018-12-26T09:05:43Z" finished-at="2018-12-26T09:07:02Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="78803" started-at="2018-12-26T09:05:43Z" finished-at="2018-12-26T09:07:02Z">
+      <class name="com.website.ezmall.qa.pageTest.HomePageTest">
+        <test-method status="PASS" signature="setUp()[pri:0, instance:com.website.ezmall.qa.pageTest.HomePageTest@7fac631b]" name="setUp" is-config="true" duration-ms="8943" started-at="2018-12-26T09:05:43Z" finished-at="2018-12-26T09:05:52Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="validateEzmalogo()[pri:1, instance:com.website.ezmall.qa.pageTest.HomePageTest@7fac631b]" name="validateEzmalogo" duration-ms="77" started-at="2018-12-26T09:05:52Z" finished-at="2018-12-26T09:05:52Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- validateEzmalogo -->
+        <test-method status="PASS" signature="teardown()[pri:0, instance:com.website.ezmall.qa.pageTest.HomePageTest@7fac631b]" name="teardown" is-config="true" duration-ms="781" started-at="2018-12-26T09:05:52Z" finished-at="2018-12-26T09:05:53Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardown -->
+        <test-method status="PASS" signature="setUp()[pri:0, instance:com.website.ezmall.qa.pageTest.HomePageTest@7fac631b]" name="setUp" is-config="true" duration-ms="6094" started-at="2018-12-26T09:05:54Z" finished-at="2018-12-26T09:06:00Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="validateSearchFuntionalityTest(java.lang.String)[pri:2, instance:com.website.ezmall.qa.pageTest.HomePageTest@7fac631b]" name="validateSearchFuntionalityTest" duration-ms="13684" started-at="2018-12-26T09:06:00Z" data-provider="getSearchData" finished-at="2018-12-26T09:06:13Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Saree]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- validateSearchFuntionalityTest -->
+        <test-method status="PASS" signature="teardown()[pri:0, instance:com.website.ezmall.qa.pageTest.HomePageTest@7fac631b]" name="teardown" is-config="true" duration-ms="782" started-at="2018-12-26T09:06:13Z" finished-at="2018-12-26T09:06:14Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardown -->
+        <test-method status="PASS" signature="setUp()[pri:0, instance:com.website.ezmall.qa.pageTest.HomePageTest@7fac631b]" name="setUp" is-config="true" duration-ms="6222" started-at="2018-12-26T09:06:14Z" finished-at="2018-12-26T09:06:20Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="validateSearchFuntionalityTest(java.lang.String)[pri:2, instance:com.website.ezmall.qa.pageTest.HomePageTest@7fac631b]" name="validateSearchFuntionalityTest" duration-ms="13063" started-at="2018-12-26T09:06:20Z" data-provider="getSearchData" finished-at="2018-12-26T09:06:33Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Walnuts]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- validateSearchFuntionalityTest -->
+        <test-method status="PASS" signature="teardown()[pri:0, instance:com.website.ezmall.qa.pageTest.HomePageTest@7fac631b]" name="teardown" is-config="true" duration-ms="1017" started-at="2018-12-26T09:06:33Z" finished-at="2018-12-26T09:06:34Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardown -->
+        <test-method status="PASS" signature="setUp()[pri:0, instance:com.website.ezmall.qa.pageTest.HomePageTest@7fac631b]" name="setUp" is-config="true" duration-ms="6931" started-at="2018-12-26T09:06:35Z" finished-at="2018-12-26T09:06:41Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="validateLoginFunctionalityTest(java.lang.String, java.lang.String)[pri:3, instance:com.website.ezmall.qa.pageTest.HomePageTest@7fac631b]" name="validateLoginFunctionalityTest" duration-ms="6363" started-at="2018-12-26T09:06:41Z" data-provider="getLoginData" finished-at="2018-12-26T09:06:48Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[9.716954395E9]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[snapdeal]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- validateLoginFunctionalityTest -->
+        <test-method status="PASS" signature="teardown()[pri:0, instance:com.website.ezmall.qa.pageTest.HomePageTest@7fac631b]" name="teardown" is-config="true" duration-ms="844" started-at="2018-12-26T09:06:48Z" finished-at="2018-12-26T09:06:49Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardown -->
+        <test-method status="PASS" signature="setUp()[pri:0, instance:com.website.ezmall.qa.pageTest.HomePageTest@7fac631b]" name="setUp" is-config="true" duration-ms="5743" started-at="2018-12-26T09:06:49Z" finished-at="2018-12-26T09:06:54Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="validateLoginFunctionalityTest(java.lang.String, java.lang.String)[pri:3, instance:com.website.ezmall.qa.pageTest.HomePageTest@7fac631b]" name="validateLoginFunctionalityTest" duration-ms="6766" started-at="2018-12-26T09:06:54Z" data-provider="getLoginData" finished-at="2018-12-26T09:07:01Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[8.178361968E9]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[snapdeal]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- validateLoginFunctionalityTest -->
+        <test-method status="PASS" signature="teardown()[pri:0, instance:com.website.ezmall.qa.pageTest.HomePageTest@7fac631b]" name="teardown" is-config="true" duration-ms="767" started-at="2018-12-26T09:07:01Z" finished-at="2018-12-26T09:07:02Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardown -->
+      </class> <!-- com.website.ezmall.qa.pageTest.HomePageTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>

@@ -1,0 +1,14 @@
+com\website\ezmall\qa\pages\PDPpage.class
+com\website\ezmall\qa\ExtentReportListener\ExtentReporterNG.class
+com\website\ezmall\qa\pages\OrderConfirmationpage.class
+com\website\ezmall\qa\pages\Cartpage.class
+com\website\ezmall\qa\pages\Homepage.class
+com\website\ezmall\qa\pages\Categorypage.class
+com\website\ezmall\qa\pages\BuyflowloginPage.class
+com\website\ezmall\qa\pages\SearchListingpage.class
+com\website\ezmall\qa\utils\WebEventListener.class
+com\website\ezmall\qa\base\TestBase.class
+com\website\ezmall\qa\pages\ShippingAddresspage.class
+com\website\ezmall\qa\utils\CommonMethods.class
+com\website\ezmall\qa\pages\Paymentpage.class
+com\website\ezmall\qa\utils\TestUtil.class

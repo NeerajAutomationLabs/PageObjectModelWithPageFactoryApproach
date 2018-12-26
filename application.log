@@ -1,0 +1,12 @@
+2018-12-26 14:35:52,662  INFO [main] HomePageTest:39 - checking for ezmall logo
+2018-12-26 14:35:52,722  INFO [main] HomePageTest:41 - Ezmall logo Found
+2018-12-26 14:36:00,185  INFO [main] HomePageTest:54 - Search box found and Entering keyword to seaarch
+2018-12-26 14:36:08,867  INFO [main] HomePageTest:56 - Search is working fine.
+2018-12-26 14:36:20,876  INFO [main] HomePageTest:54 - Search box found and Entering keyword to seaarch
+2018-12-26 14:36:28,934  INFO [main] HomePageTest:56 - Search is working fine.
+2018-12-26 14:36:41,999  INFO [main] HomePageTest:69 - Moving to Signin Modal & Cliking on Signin Button
+2018-12-26 14:36:42,927  INFO [main] HomePageTest:72 - Entering user name and password to signin
+2018-12-26 14:36:43,360  INFO [main] HomePageTest:74 - Login Successfull
+2018-12-26 14:36:54,952  INFO [main] HomePageTest:69 - Moving to Signin Modal & Cliking on Signin Button
+2018-12-26 14:36:56,209  INFO [main] HomePageTest:72 - Entering user name and password to signin
+2018-12-26 14:36:56,714  INFO [main] HomePageTest:74 - Login Successfull
