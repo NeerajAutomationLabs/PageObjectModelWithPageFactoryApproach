@@ -38,7 +38,7 @@ public class HomePageTest extends TestBase
 	public void validateEzmalogo() {
 		log.info("checking for ezmall logo");
 		Assert.assertTrue(objHomePage.validateEzmallLogo());
-		log.info("Ezmall logo Found");
+		log.info("Ezmall logo Found on homepage");
 	}
 
 	
